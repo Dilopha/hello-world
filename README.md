@@ -1,2 +1,2 @@
 # hello-world
-too complex for a description
+turns out this is a rather simple program
